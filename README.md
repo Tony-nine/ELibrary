@@ -31,7 +31,7 @@ Packages used in application:
 - react-bootstrap
 
 Due to time limitation Application have a lot of things to improve.
-Som of the things that can be improved:
+Some of the things that can be improved:
 - Frontend adaptability and responsiveness can be improoved
 - Containers on Hotels and Rooms pages are not the same size and depend on the images in them. Need to be fixed.
 - Error notification of Registration, Login and Booking done by alerts. More user-friendly error handling prefered.
